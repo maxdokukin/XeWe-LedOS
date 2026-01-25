@@ -1,1 +1,0 @@
-Supports control through Serial Port and WebInterface.
