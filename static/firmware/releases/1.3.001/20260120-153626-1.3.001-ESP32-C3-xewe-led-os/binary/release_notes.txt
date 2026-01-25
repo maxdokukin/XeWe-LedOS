@@ -1,0 +1,2 @@
+Fixed bug that lead to device not reconnecting to WiFi if the connection was lost
+Migrating to xewe-os framework
