@@ -1,1 +1,2 @@
 Added HomeKit and Buttons support.
+Note: firmware prints V2 version which is incorrect.

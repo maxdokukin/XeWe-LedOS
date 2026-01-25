@@ -1,2 +1,3 @@
 Fixed bug that lead to device not reconnecting to WiFi if the connection was lost
 Migrating to xewe-os framework
+Note: firmware prints V2 version which is incorrect.
